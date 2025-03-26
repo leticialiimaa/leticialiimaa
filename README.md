@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Leticia Lima
 
-Me chamo Leticia do Nascimento de Lima, tenho 23 anos e sou de São Paulo. Sou estudante apaixonada por tecnologia e atualmente curso **Análise e Desenvolvimento de Sistemas** na **UMC**. Este repositório tem como objetivo documentar minha evolução e compartilhar meus projetos acadêmicos.
+Me chamo Leticia do Nascimento de Lima, tenho 23 anos e sou de São Paulo. Sou estudante apaixonada por tecnologia e atualmente curso **Análise e Desenvolvimento de Sistemas** na **UMC**. Este portfólio tem como objetivo documentar minha evolução e compartilhar meus projetos acadêmicos.
 
 ---
 
